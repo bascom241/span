@@ -1,0 +1,11 @@
+
+                    <p>Our vision is rooted in a future where physiological knowledge is a catalyst for transformative
+                        advancements,
+                        enhancing individual well-being and human performance. <br>
+                    <h2> We Organize ⬇️</h2>
+                    🫀<span>Span Health Week:</span> We organize span health week where students apply their knowledge
+                    of physiology<br>
+                    🎮<span>Span Game Competition: </span> Our winners ⬇️<br>
+                    <span>⚽Football:</span> 🥇Current 400l physiology<br>
+                    <span>🏀Basketball</span> 🥇Old 400l physiology
+                    </p>
