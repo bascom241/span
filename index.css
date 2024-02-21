@@ -576,6 +576,10 @@ footer{
     .student h1 .span1,.span2{
         font-size: 22px;
     }
+     .student button{
+        width: 90%;
+        margin: auto;
+    }
     .span2{
         margin-top:-15px ;
         margin-left: 0px;
@@ -703,11 +707,12 @@ footer{
     gap: 5px;
 }
 .div-container div{
-    width: 280px;
+    width: 90%;
     font-size: 0.7rem;
     padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
 }
-
 .sec6{
     padding-left: 10px;
     padding-right: 5px;
