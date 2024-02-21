@@ -435,6 +435,13 @@ footer{
 .visit a{
     color: coral;
 }
+.visit2 a{
+    color: coral;
+}
+.visit2{
+    margin-top: 80px;
+  margin-right: 900px;
+}
 .sec1 .student, .sec1 .img{
     visibility: hidden;
     opacity: 0;
