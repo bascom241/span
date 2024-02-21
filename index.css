@@ -511,7 +511,7 @@ footer{
     height: 40px;
 }
 
-@media ecreen and (max-width: 600px){
+@media screen and (max-width: 600px){
     nav{
         display: flex;
         justify-content: space-between;
